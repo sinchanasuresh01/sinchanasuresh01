@@ -70,7 +70,7 @@ A completed team project focused on developing a user-friendly online voting sys
 
 📧 **Email:** sinchanasuvarna1@gmail.com
 
-💼 **LinkedIn:** [Connect with me]
+💼 **LinkedIn:** 
 linkedin.com/in/sinchana06
 
 ---
