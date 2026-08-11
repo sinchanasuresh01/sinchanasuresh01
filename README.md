@@ -8,11 +8,11 @@
 
 <br>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto: sinchanasuvarna1@gmail.com@gmail.com">
 <img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="linkedin.com/in/sinchana06">
+<a href="[>](https://www.linkedin.com/in/sinchana-suresh-3092553a9?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
 <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -92,11 +92,3 @@ A team project focused on developing an online voting system with a user-friendl
 
 ---
 
-## 💫 A Little More About Me
-
-```text
-🎓 MCA Student
-💻 Technology Enthusiast
-🎨 Interested in Design & UI/UX
-🌱 Always Learning
-✨ Curious • Creative • Practical
