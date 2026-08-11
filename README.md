@@ -131,7 +131,7 @@ A completed team project focused on developing an online voting system with a us
 
 <div align="center">
 
-### 🌸 Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 **Learning • Creating • Exploring • Growing**
 
